@@ -4,3 +4,4 @@ gitの練習
 
 git statusの学習をします。
 git diffを追加した。
+確認用
