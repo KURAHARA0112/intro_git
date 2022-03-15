@@ -3,3 +3,4 @@ gitの練習
 昨日の復習を行います。
 
 git statusの学習をします。
+git diffを追加した。
